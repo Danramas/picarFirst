@@ -1,0 +1,57 @@
+a{text-decoration: none;}
+
+div.header{
+    padding-top: 20px;
+    background-color: #ffc107;
+}
+div.header h1{
+    font-size: 48px;
+    text-align: left;
+    color: #000000;
+    padding: 40px 0;
+    float: left;
+}
+div.topmenu{
+    float: right;
+    height: 200px;
+    line-height: 100px;
+}
+div.topmenu a{
+    margin: 0 0 0 30px;
+    color: #1683a3;
+}
+div.topmenu a:hover{
+    color: #000;
+}
+div.content h1{
+    text-align: center;
+}
+div.info table{
+    border: 1px;
+    border-style: solid;
+    border-spacing: 10px;
+}
+div.images{
+    float:left
+}
+div.images table{
+    border: 1px;
+    border-style: solid;
+}
+div.comment table{
+    border: 1px;
+    border-style: solid;
+    border-spacing: 10px;
+}
+div.window{
+    padding: 30px 100px;
+}
+
+div.clear{
+    clear: both;
+}
+
+input{
+    border: 2px solid red;
+    border-radius: 4px;
+}
